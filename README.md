@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://placehold.co/1200x300/22c55e/ffffff?text=Hi,+I'm+Your+Name!" alt="Profile Banner" style="border-radius: 10px; width: 100%; max-width: 900px;">
+  <h1>Hi, I'm Rasel! 👋</h1>
+   <p>I'm helping developers to become frontend developers!</p>
+</div>
+
+
 ## Hi there 👋
 
 <!--
