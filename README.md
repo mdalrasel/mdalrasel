@@ -29,6 +29,6 @@ Feel free to reach out to me or connect with me on [LinkedIn](https://www.linked
 You can also find me on:
 * **Email:** mdalrasel.dev@gmail.com
 * **LinkedIn:** [Click Here](https://www.linkedin.com/in/mdalrasel/) 
-* **Facebook:** [Click Here](https://www.facebook.com/mdalrasel01) 
+* **Facebook:** [Click Here](https://www.facebook.com/mdalrasel) 
 
 Let's connect and discuss exciting opportunities!
