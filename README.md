@@ -30,25 +30,6 @@ Here are some of the technologies I use:
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalrasel&layout=compact&theme=dark&hide_title=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdalrasel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=mdalrasel&theme=dark&hide_title=true) |
 
 
-
-## GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <h3>Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalrasel&layout=compact&theme=dark&hide_border=true&title_color=007bff&text_color=ffffff&bg_color=1c1c1c" alt="Md. Al-Rasel's Top Languages" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=mdalrasel&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25&title_color=007bff&text_color=ffffff&bg_color=1c1c1c" alt="Md. Al-Rasel's GitHub Stats" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <h3>GitHub Streak</h3>
-      <img src="https://streak-stats.demolab.com/?user=mdalrasel&theme=dark&hide_border=true&ring=007bff&fire=007bff&currstreaklabel=ffffff&dates=ffffff&sidebars=ffffff&currstreaknum=007bff&longstreaknum=007bff&title_color=007bff&text_color=ffffff&background=1c1c1c" alt="Md. Al-Rasel's GitHub Streak" />
-    </td>
-  </tr>
-</table>
 ## 📞 Contact
 
 Feel free to reach out to me or connect with me on [LinkedIn](https://www.linkedin.com/in/mdalrasel/) !
