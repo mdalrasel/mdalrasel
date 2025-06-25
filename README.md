@@ -24,7 +24,8 @@ Here are some of the technologies I use:
 
 ## 📞 Contact
 
-Feel free to reach out to me or connect with me on [LinkedIn](https://www.linkedin.com/in/mdalrasel/)!
+Feel free to reach out to me or connect with me on [LinkedIn](https://www.linkedin.com/in/mdalrasel/) !
+
 You can also find me on:
 * **Email:** mdalrasel.dev@gmail.com
 * **LinkedIn:** [Click Here](https://www.linkedin.com/in/mdalrasel/) 
