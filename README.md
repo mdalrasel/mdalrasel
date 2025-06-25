@@ -24,7 +24,11 @@ Here are some of the technologies I use:
 
 ## 📊 GitHub Stats
 
-[![MD AL RASEL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdalrasel&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalrasel&layout=compact&theme=dark&hide_title=true" alt="Top Languages" style="margin-bottom: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdalrasel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" alt="MD AL RASEL's GitHub Stats" style="margin-bottom: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalrasel&theme=dark&hide_title=true" alt="GitHub Streak" style="margin-bottom: 10px;"/>
+</div>
 
 ---
 
