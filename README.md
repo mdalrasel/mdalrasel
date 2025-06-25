@@ -26,9 +26,9 @@ Here are some of the technologies I use:
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |---|---|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalrasel&layout=compact&theme=dark&hide_title=true" alt="Top Languages"/> | <img src="https://github-readme-stats.vercel.app/api?username=mdalrasel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" alt="MD AL RASEL's GitHub Stats"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalrasel&theme=dark&hide_title=true" alt="GitHub Streak"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalrasel&layout=compact&theme=dark&hide_title=true" alt="Top Languages"/> | <img src="https://github-readme-stats.vercel.app/api?username=mdalrasel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" alt="MD AL RASEL's GitHub Stats"/> | <img src="https://streak-stats.demolab.com/?user=mdalrasel&theme=dark&hide_title=true" alt="GitHub Streak"/> |
 
----
+
 
 ## 📞 Contact
 
