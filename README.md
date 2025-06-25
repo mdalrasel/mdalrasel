@@ -1,5 +1,5 @@
 <div align="center ">
-  <img src="./banner-img.jpg" alt="MD AL RASEL Profile Banner" style="width: 100%; max-width: 900px; border-radius: 10px;">
+  <img src="./Banne.jpg" alt="MD AL RASEL Profile Banner" style="width: 100%; max-width: 900px; border-radius: 10px;">
 </div>
 ## 👋 About Me
 
