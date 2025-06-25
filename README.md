@@ -1,4 +1,4 @@
-
+![Profile Banner](assets/Banner.jpg)
 
 ## 👋 About Me
 
